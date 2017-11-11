@@ -1,2 +1,2 @@
-# getskills
-get some new skills about git
+# koranstory
+A platform for people to discover valuable information and get contact with the information provider.
